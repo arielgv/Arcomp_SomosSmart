@@ -1,6 +1,6 @@
-# Comparador de Transferencias de Deposito
+# Comparador de Movimientos de Deposito 
 
-Este programa permite comparar PDFs de transferencias de productos entre depositos para identificar que elementos quedaron instalados, generando reportes detallados en Excel o CSV.
+Este programa permite comparar PDFs de movimientos de productos entre depositos para identificar que elementos quedaron instalados, generando reportes detallados en Excel o CSV.
 
 ## Requisitos previos
 
