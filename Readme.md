@@ -21,6 +21,16 @@ Este programa permite comparar PDFs de transferencias de productos entre deposit
 1. **Descargar el programa**:
    - Descargue y extraiga el ZIP en una ubicación de fácil acceso
 
+2. **CREAR CARPETAS**:
+   - El programa esta configurado para crearlas en su primer uso, pero es muy recomendable crear previamente estas tres carpetas en la ubicacion que se encuentra main.py:
+      - carpeta 1: "1 - Salida de deposito", sin comillas doble
+         (ahí se colocarán los archivos pdf relacionados)
+      - carpeta 2: "2 - Re-entrada a deposito", sin comillas doble
+         (ahí se colocarán los archivos pdf relacionados)
+      - carpeta 3: "3 - Archivos procesados", sin comillas doble.
+         (carpeta de uso interno del programa)
+
+
 2. **Preparar el entorno**:
    - Abra una terminal en la carpeta del programa
    - Cree un entorno virtual:
@@ -75,4 +85,4 @@ El programa crea y utiliza tres carpetas principales:
 - **No encuentra archivos**: Confirme que los PDFs están en las carpetas correctas
 - **Error al procesar PDFs**: Confirme que los PDFs tienen el mismo formato que los ejemplos
 
-Para cualquier consulta adicional, contacte con soporte técnico.
+Para cualquier consulta adicional, se puede comunicar a avillafane@cloudacio.com
